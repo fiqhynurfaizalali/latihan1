@@ -7,3 +7,5 @@
 6.menambahkan remote repo dengan perintah git remoteadd origin {url github}
 7.mengirim perubahan ke server dengan perintah git push -uorigin master
 8.melihat hasil yang sudah kita buat dan tinggal mencari file yang di buat dalam gitbash tsb
+![](https://github.com/fiqhynurfaizalali/latihan1/blob/master/gmbr1.png)
+
